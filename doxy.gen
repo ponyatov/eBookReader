@@ -1,0 +1,10 @@
+PROJECT_NAME           = "eBookReader"
+PROJECT_BRIEF          = "eBook firmware proto"
+PROJECT_LOGO           = doc/logo.png
+OUTPUT_DIRECTORY       =
+WARN_IF_UNDOCUMENTED   = NO
+INPUT                  = README.md src doc
+RECURSIVE              = YES
+USE_MDFILE_AS_MAINPAGE = README.md
+HTML_OUTPUT            = docs
+GENERATE_LATEX         = NO

@@ -1,0 +1,12 @@
+*~
+*.swp
+*.log
+
+/docs/
+/eBookReader/
+
+__pycache__/
+
+/buildroot-*/
+
+!.gitignore
